@@ -5,7 +5,7 @@
 **مُدار برنامج كمبيوتر بيدير محل البلايستيشن كله: الغرف والوقت والكافيه والكاشير والموظفين والحسابات. وبيشتغل من غير إنترنت خالص.**
 
 🌐 الموقع: **[ats.enterprises](https://ats.enterprises/gaming)**
-⬇️ التحميل: **[آخر نسخة من هنا](https://github.com/AbdoHendawy/vip-playtime-releases/releases/latest)**
+⬇️ التحميل: **[آخر نسخة من هنا](https://github.com/AbdoHendawy/modar-releases/releases/latest)**
 🎁 تجربة مجانية **7 أيام** بكل المميزات، ومن غير بطاقة ائتمان.
 
 ---
@@ -43,7 +43,7 @@
 
 ## التسطيب
 
-1. نزّل ملف `.exe` من **[آخر نسخة](https://github.com/AbdoHendawy/vip-playtime-releases/releases/latest)**.
+1. نزّل ملف `.exe` من **[آخر نسخة](https://github.com/AbdoHendawy/modar-releases/releases/latest)**.
 2. شغّله. لو ويندوز طلّع رسالة "Windows protected your PC"، دوس **More info** وبعدها **Run anyway**.
 3. اعمل حساب المدير، وضيف غرفك وأسعارك، وابدأ.
 
